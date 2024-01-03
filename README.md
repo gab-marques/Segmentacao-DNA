@@ -48,12 +48,6 @@ lista trilha_euleriana(grafo G)
 ### Limitações de Funcionamento
 - a função embaralha es
 
-## Arquivos no Pacote .zip
-
-1. *seqDNA.c.txt*: Código-fonte principal do programa.
-2. *Makefile.txt*: Arquivo de script para facilitar a compilação do programa.
-3. *LEIAME.txt*: Este arquivo LEIAME com informações sobre o programa.
-
 ## Compilação e Execução
 
 ### Compilação
